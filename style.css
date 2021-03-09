@@ -1,0 +1,105 @@
+html{
+    scroll-behavior: smooth;
+}
+#jobs{
+    background: white;
+    padding: 1px 10px;
+}
+.container h5{
+    font-size: 35px;
+    text-align: center;
+    font-style: bold;
+}
+.company-details{
+    box-shadow: 0 2px 70px 0 rgba(110,130,208, .18);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.company-details p{
+    color: #1a1d53;
+}
+.job-update{
+background: #25c998;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.job-update h4 a{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration-line: none;
+    color: #1a1d53;
+}
+.job-update h4 a:hover{
+    color: red;
+    text-decoration:underline;
+}
+.job-update .fa{
+    margin-top: 5px;
+    margin-right: 10px;
+    color: #1a1d53;
+}
+.job-update span{
+    color: #1a1d53;
+}
+.job-update small{
+    background: #8BC4C4;
+    padding: 1px 5px;
+    margin: 0 5px;
+}
+.job-update p a{
+    text-decoration-line: none;
+}
+.job-update p a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.apply-btn{
+    height: 40px;
+    background-image: linear-gradient(to left, #25c998,#1a1d53);
+    padding: 7px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.apply-btn .btn-primary{
+    padding: 10px 30px;
+    float: right;
+    border-radius: 100px;
+    box-shadow: none !important;
+    background: transparent;
+    border: 1px solid #1a1d53;
+    color: #1a1d53;
+}
+.apply-btn .btn-primary:hover {
+     border-radius: 100px;
+    box-shadow: none !important;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+#FED{
+    background:#FFD5AD ;
+    padding: 2px 10px;
+}
+#SD1{
+    background:#C9FFAD ;
+    padding: 2px 10px;
+}
+#SD2{
+    background:#DEADFF ;
+    padding: 2px 10px;
+}
+.font3 h3{
+    font-size: 35px;
+    text-align: center;
+}
+.font4 h4{
+    font-size: 25px;
+}
+.font4 p{
+    font-size: 18;
+}
+.font4 ul li{
+    margin: 10px;
+    font-size: 18px;
+}
